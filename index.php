@@ -141,7 +141,7 @@
 					<div class="panel-heading">
 						Places to Visit in Pune
 					</div>
-					<div class="panel-body "><img src="lavasa.jpg" style="margin-right:10px;" 
+					<div class="panel-body "><img src="Lavasa.jpg" style="margin-right:10px;" 
 					class="img-responsive img-thumbnail" width="100" align="left">
 						<p style="padding:5px; text-align:justify;" ><br> 
 						&emsp;
@@ -152,7 +152,7 @@
 					</div>
 					<u></u>
 					<div class="panel-body">
-						<img src="lonavala.jpg"style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
+						<img src="Lonavala.jpg"style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
 						<p style="padding:5px; text-align:justify;" ><br> 
 						&emsp;
 						 <b>Lonava</b> is a town and a hill station Municipal Council in Pune district 
@@ -182,7 +182,7 @@
 						Parvati Hill
 						</div>
 						<div class="panel-body bg-danger">
-							<img src="Parvati.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300" >
+							<img src="Parvati.JPG"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300" >
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
 								<b>Parvati Hill</b> is a hillock in Pune, India. The hillock rises to 2,100 feet 
@@ -247,7 +247,7 @@
 						Khadakwasla Dam
 						</div>
 						<div class="panel-body bg-danger">
-							<img src="Khadakwasla_Dam.jpg"  style="margin-right:10px;" 
+							<img src="Khadakwasla_Dam.JPG"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
@@ -291,7 +291,7 @@
 						Shaniwar Wada (शनिवार वाडा)
 					</div>
 						<div class="panel-body bg-info">
-							<img src="Shaniwarwada_gate.jpg"  style="margin-right:10px;" 
+							<img src="Shaniwarwada_gate.JPG"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300" >
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
