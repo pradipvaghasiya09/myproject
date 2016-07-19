@@ -22,7 +22,7 @@
 		<nav class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container-fluid">
 			<div class="navbar-header">
-				<a href="#" class="navbar-brand"><img src="image/logo/m_l.gif" width="50"></img></a>
+				<a href="#" class="navbar-brand"><img src="m_l.gif" width="50"></img></a>
 				
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abd">
 					<span class="icon-bar"></span>
@@ -69,20 +69,20 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="item active"> 
-						<img src="image/cover/1.jpg" width="100%" >
+						<img src="1.jpg" width="100%" >
 						
 					</div>
 					<div class="item"> 
-						<img src="image/cover/2.jpg" width="100%" >
+						<img src="2.jpg" width="100%" >
 					</div>
 					<div class="item"> 
-						<img src="image/cover/3.jpg" width="100%">
+						<img src="3.jpg" width="100%">
 					</div>
 					<div class="item"> 
-						<img src="image/cover/4.jpg" width="100%">
+						<img src="4.jpg" width="100%">
 					</div>
 					<div class="item"> 
-						<img src="image/cover/5.jpg" width="100%">
+						<img src="5.jpg" width="100%">
 					</div>
 				</div>
 				<a class="left carousel-control" href="#mycarousel" role="button" data-slide="prev">
@@ -93,31 +93,13 @@
 				</a>
 			</div>
 			
-			
-			
-			
-            <!--<div class="row jumbotron" style="margin:10px; padding:10px;">
-                <div class="col-sm-8" >
-                    <h2>this is my first responsive page</h2>
-                    <p>
-                        You must have come across many situations when you need to pass some information from your
-                        browser to web server and ultimately to your backend program. The browser uses
-                        two methods to pass this information to web server. These methods are GET Method and POST Method.
-                    </p>
-                </div>
-                <div class="col-sm-4" align="left">
-                    <img src="image/2.jpg" width="90%" class="img-responsive img-thumbnail"/>
-                </div>
-                
-            </div>
-        -->
 		<div class="well well-sm" style="background-color:balck;"></div>
 		
 		
 		<div class="row container " >
 			<div class="col-sm-8" style="border:1px solid #cecece;">
 				<h3><b style="color:white;"><u>This article is about the city of Pune..</u></b></h3><br>
-				<img src="image/pune.jpg" align="left" width="30%" style="margin-right:10px;" 
+				<img src="pune.jpg" align="left" width="30%" style="margin-right:10px;" 
 						class="img-responsive img-thumbnail">
 				<p style="padding:5px; text-align:justify;" ><br> 
 				&emsp;&emsp;&emsp; 
@@ -159,7 +141,7 @@
 					<div class="panel-heading">
 						Places to Visit in Pune
 					</div>
-					<div class="panel-body "><img src="image/lavasa.jpg" style="margin-right:10px;" 
+					<div class="panel-body "><img src="lavasa.jpg" style="margin-right:10px;" 
 					class="img-responsive img-thumbnail" width="100" align="left">
 						<p style="padding:5px; text-align:justify;" ><br> 
 						&emsp;
@@ -170,7 +152,7 @@
 					</div>
 					<u></u>
 					<div class="panel-body">
-						<img src="image/lonavala.jpg"style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
+						<img src="lonavala.jpg"style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
 						<p style="padding:5px; text-align:justify;" ><br> 
 						&emsp;
 						 <b>Lonava</b> is a town and a hill station Municipal Council in Pune district 
@@ -179,7 +161,7 @@
 						 connecting Mumbai and Pune.  
 						</p>		</div>
 					<div class="panel-body">
-						<img src="image/Sinhgad.jpg" style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
+						<img src="Sinhgad.jpg" style="margin-right:10px;" class="img-responsive img-thumbnail" width="100" align="left">
 						<p style="padding:5px; text-align:justify;" ><br> 
 						&emsp;
 						 <b>Sinhgad (The Lion's Fort) </b>, is a fortress located roughly 30 kilometres southwest of the city
@@ -200,7 +182,7 @@
 						Parvati Hill
 						</div>
 						<div class="panel-body bg-danger">
-							<img src="image/Parvati.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300" >
+							<img src="Parvati.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300" >
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
 								<b>Parvati Hill</b> is a hillock in Pune, India. The hillock rises to 2,100 feet 
@@ -220,7 +202,7 @@
 					Aga Khan Palace
 					</div>
 						<div class="panel-body">
-							<img src="image/agakhan.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300">
+							<img src="agakhan.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
 								<b>The Aga Khan Palace</b> was built by Sultan Muhammed Shah Aga Khan III in Pune, 
@@ -240,7 +222,7 @@
 						Mulshi Dam
 					</div>
 						<div class="panel-body bg-info">
-							<img src="image/mulshidam.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300">
+							<img src="mulshidam.jpg"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
 								Mulshi is the name of a major dam on the Mula river in India.
@@ -265,7 +247,7 @@
 						Khadakwasla Dam
 						</div>
 						<div class="panel-body bg-danger">
-							<img src="image/Khadakwasla_Dam.jpg"  style="margin-right:10px;" 
+							<img src="Khadakwasla_Dam.jpg"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
@@ -287,7 +269,7 @@
 					Lohagad (Marathi: लोहगड, iron fort)
 					</div>
 						<div class="panel-body">
-							<img src="image/Lohagad.jpg"  style="margin-right:10px;" 
+							<img src="Lohagad.jpg"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
@@ -309,7 +291,7 @@
 						Shaniwar Wada (शनिवार वाडा)
 					</div>
 						<div class="panel-body bg-info">
-							<img src="image/Shaniwarwada_gate.jpg"  style="margin-right:10px;" 
+							<img src="Shaniwarwada_gate.jpg"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300" >
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
@@ -369,7 +351,7 @@
 			<h3>Contact us.</h3>
 			<b>Email : </b><a href="#">pradipvaghasiya09@gmail.com</a>
 			<br><b>M-NO :</b><a>9665298974</a>
-			<img src="image/2.jpg" align="right" style="margin-top:-50px;" class="img-thumbnail" width="100"></p>
+			<img src="pradip.jpg" align="right" style="margin-top:-50px;" class="img-thumbnail" width="100"></p>
 					
 		</div>
 		
