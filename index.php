@@ -18,7 +18,7 @@
        <script src="js/jquery-3.1.0.min.js" type="text/javascript"></script>
 		-->
 	</head>
-    <body style="background-image: url('image/b.jpg');" >
+    <body style="background-image: url('b.jpg');" >
 		<nav class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container-fluid">
 			<div class="navbar-header">
