@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>responsive web page</title>
+        <title>Pune toursim</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
@@ -33,9 +33,8 @@
 			</div> 
 			<div class="collapse navbar-collapse" id="abd">
 			<ul class="nav navbar-nav">
-				<li><a href="#" >home</a></li>
-				<li><a href="#">about</a></li>
-				<li><a href="#">news</a></li>
+				<li><a href="#" >HOME</a></li>
+				<li><a href="#">ABOUT</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown">
 				friends<span class="caret"></span></a>
 					<ul class="dropdown-menu">
@@ -79,10 +78,10 @@
 						<img src="3.jpg" width="100%">
 					</div>
 					<div class="item"> 
-						<img src="4.jpg" width="100%">
+						<img src="4.JPG" width="100%">
 					</div>
 					<div class="item"> 
-						<img src="5.jpg" width="100%">
+						<img src="5.JPG" width="100%">
 					</div>
 				</div>
 				<a class="left carousel-control" href="#mycarousel" role="button" data-slide="prev">
@@ -313,13 +312,13 @@
 	
 	<div class="container-fluid navbar-default" id="cntus">
 		<div class="row">
-			<div class="col-sm-4">
-			<h3>Conatct Us :</h2>
-				<p style="text-align:justify;">and manipulation of data. In other 
-								prand manipulation of data. In other 
-								prand manipulation of data. In other 
-								pr
-				</p>
+			<div class="col-sm-8" style="text-align: center;>
+			<h3 style="font-family: Josefin slab,serif;"> About</h3>
+    			<img src="pradip.jpg" align="right" style="margin-top:-50px;" class="img-thumbnail" width="100"></p>
+    			<hr>
+    			<h1 >Name : Pradip Vaghasiya</h1>
+    			<h2 >Phone No : 9665298974</h2>
+    			<h3>Email : pradipvaghasiya09@gmail.com</h3>
 			</div>
 			<div class="col-sm-4">
 				<ul class="list-group" style="margin-top:20px;">
@@ -346,14 +345,10 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-sm-4" >
-			<p>
-			<h3>Contact us.</h3>
-			<b>Email : </b><a href="#">pradipvaghasiya09@gmail.com</a>
-			<br><b>M-NO :</b><a>9665298974</a>
-			<img src="pradip.jpg" align="right" style="margin-top:-50px;" class="img-thumbnail" width="100"></p>
+			
+			
 					
-		</div>
+		
 		
 		</div>
 	</div>
