@@ -312,15 +312,16 @@
 	<div class="container-fluid navbar-default" id="cntus">
 		<div class="row" style="border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000"">
 			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
+			<img src="pradip.jpg" align="right" style="margin-bottom:200px;" class="img-thumbnail" width="100"></p>
 			<h2> About</h2>
-    			<img src="pradip.jpg" align="right" style="margin-top:200px;" class="img-thumbnail" width="100"></p>
+    			
     			<hr>
     			<h2>Pradip Vaghasiya</h2>
     			<h4 >Mo-No : 9665298974</h4>
     			<h4>Email : pradipvaghasiya09@gmail.com</h4>
 			</div>
 			<div class="col-sm-4">
-				<ul class="list-group" style="margin-top:20px;">
+				<ul class="list-group" style="margin-top:80px;">
 					<li  class="list-group-item" >
 						<a href="#" style="color:white">
 							<button style="width:300px; background-color:#3175af;" >
