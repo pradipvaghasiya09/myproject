@@ -36,15 +36,15 @@
 				<li><a href="#" >HOME</a></li>
 				<li><a href="#about">ABOUT</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown">
-				friends<span class="caret"></span></a>
+				FRIEND'S<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">parth</a></li>
-						<li><a href="#">mukesh</a></li>
-						<li><a href="#">ronak</a></li>
+						<li><a href="#">Parth</a></li>
+						<li><a href="#">Mukesh</a></li>
+						<li><a href="#">Ronak</a></li>
 					</ul>
 				
 				</li>
-				<li><a href="#cntus">contact us</a></li>
+				<li><a href="#cntus">CONTACT US</a></li>
 
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
