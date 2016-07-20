@@ -312,9 +312,9 @@
 	
 	<div class="container-fluid navbar-default" id="cntus">
 		<div class="row">
-			<div class="col-sm-8" style="text-align: center;>
-			<h2 style="font-family: Josefin slab,serif;"> About</h2>
-    			<img src="pradip.jpg" align="right" style="margin-top:-;" class="img-thumbnail" width="100"></p>
+			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
+			<h2> About</h2>
+    			<img src="pradip.jpg" align="right"  class="img-thumbnail" width="100"></p>
     			<hr>
     			<h3 >Name : Pradip Vaghasiya</h3>
     			<h4 >Phone No : 9665298974</h4>
