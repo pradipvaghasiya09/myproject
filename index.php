@@ -316,9 +316,9 @@
 			<img src="pradip.jpg" align="right" style="margin-bottom:200px;" class="img-thumbnail" width="100"></p>
 			<h2> Contact us.</h2>
     			<hr>
-    			<h2 class="text text-justify">Pradip Vaghasiya</h2>
-    			<h4 class="text text-justify">Mo-No : 9665298974</h4>
-    			<h4 class="text text-justify">Email : pradipvaghasiya09@gmail.com</h4>
+    			<h2 class="text">Pradip Vaghasiya</h2>
+    			<h4 class="text">Mo-No : 9665298974</h4>
+    			<h4 class="text">Email : pradipvaghasiya09@gmail.com</h4>
 			</div>
 			<div class="col-sm-4">
 				<ul class="list-group" style="margin-top:80px;">
