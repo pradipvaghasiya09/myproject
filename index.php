@@ -313,7 +313,7 @@
 		<div class="row" style="border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000"">
 			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
 			<h2> About</h2>
-    			<img src="pradip.jpg" align="right" style="margin-bottom:200px;" class="img-thumbnail" width="100"></p>
+    			<img src="pradip.jpg" align="right" style="margin-top:200px;" class="img-thumbnail" width="100"></p>
     			<hr>
     			<h2>Pradip Vaghasiya</h2>
     			<h4 >Mo-No : 9665298974</h4>
