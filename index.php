@@ -247,7 +247,7 @@
 						Khadakwasla Dam
 						</div>
 						<div class="panel-body bg-danger">
-							<img src="Khadakwasla_Dam.JPG"  style="margin-right:10px;" 
+						<img src="Khadakwasla_Dam.JPG"  style="margin-right:10px;" 
 								class="img-responsive img-thumbnail" width="300">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
