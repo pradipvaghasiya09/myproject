@@ -23,7 +23,6 @@
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<a href="#" class="navbar-brand"><img src="m_l.gif" width="50"></img></a>
-				
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abd">
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -34,7 +33,7 @@
 			<div class="collapse navbar-collapse" id="abd">
 			<ul class="nav navbar-nav">
 				<li><a href="#" >HOME</a></li>
-				<li><a href="#">ABOUT</a></li>
+				<li><a href="#about">ABOUT</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown">
 				friends<span class="caret"></span></a>
 					<ul class="dropdown-menu">
@@ -95,7 +94,7 @@
 		<div class="well well-sm" style="background-color:balck;"></div>
 		
 		
-		<div class="row container " >
+		<div class="row container " id="about" >
 			<div class="col-sm-8" style="border:1px solid #cecece;">
 				<h3><b style="color:white;"><u>This article is about the city of Pune..</u></b></h3><br>
 				<img src="pune.jpg" align="left" width="30%" style="margin-right:10px;" 
@@ -311,16 +310,16 @@
 		</div>
 	
 	<div class="container-fluid navbar-default" id="cntus">
-		<div class="row">
+		<div class="row" style="border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000"">
 			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
 			<h2> About</h2>
-    			<img src="pradip.jpg" align="right" style="margin-bottom:80px;" class="img-thumbnail" width="100"></p>
+    			<img src="pradip.jpg" align="right" style="margin-bottom:200px;" class="img-thumbnail" width="100"></p>
     			<hr>
     			<h2>Pradip Vaghasiya</h2>
     			<h4 >Mo-No : 9665298974</h4>
     			<h4>Email : pradipvaghasiya09@gmail.com</h4>
 			</div>
-			<div class="col-sm-4" style="border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000"">
+			<div class="col-sm-4">
 				<ul class="list-group" style="margin-top:20px;">
 					<li  class="list-group-item" >
 						<a href="#" style="color:white">
