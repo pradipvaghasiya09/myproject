@@ -96,8 +96,8 @@
 		
 		<div class="row container " id="about" >
 			<div class="col-sm-8" style="border:1px solid #cecece;">
-				<h3><b style="color:white;"><u>This article is about the city of Pune..</u></b></h3><br>
-				<hr>
+				<h3><b style="color:white;">This article is about the city of Pune..<hr></b></h3><br>
+				
 				<img src="pune.jpg" align="left" width="30%" style="margin-right:10px;" 
 						class="img-responsive img-thumbnail">
 				<p style="padding:5px; text-align:justify;" ><br> 
