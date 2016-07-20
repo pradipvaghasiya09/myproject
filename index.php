@@ -314,7 +314,7 @@
 		<div class="row" style="border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000"">
 			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
 			<img src="pradip.jpg" align="right" style="margin-bottom:200px;" class="img-thumbnail" width="100"></p>
-			<h2> About</h2>
+			<h2> Contact us.</h2>
     			
     			<hr>
     			<h2>Pradip Vaghasiya</h2>
