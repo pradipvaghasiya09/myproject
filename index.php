@@ -97,6 +97,7 @@
 		<div class="row container " id="about" >
 			<div class="col-sm-8" style="border:1px solid #cecece;">
 				<h3><b style="color:white;"><u>This article is about the city of Pune..</u></b></h3><br>
+				<hr>
 				<img src="pune.jpg" align="left" width="30%" style="margin-right:10px;" 
 						class="img-responsive img-thumbnail">
 				<p style="padding:5px; text-align:justify;" ><br> 
@@ -359,7 +360,7 @@
 	<div class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-text pull-left">
-		 <a href="#">Copytrighte &copy: Pradip Vaghasiya</a>
+		 <a href="#">Copyrighte &copy: Pradip Vaghasiya</a>
 		<div>
 	</div>
 	</div>
