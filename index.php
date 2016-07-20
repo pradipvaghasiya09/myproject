@@ -313,12 +313,12 @@
 	<div class="container-fluid navbar-default" id="cntus">
 		<div class="row">
 			<div class="col-sm-8" style="text-align: center;>
-			<h3 style="font-family: Josefin slab,serif;"> About</h3>
-    			<img src="pradip.jpg" align="right" style="margin-top:-50px;" class="img-thumbnail" width="100"></p>
+			<h2 style="font-family: Josefin slab,serif;"> About</h2>
+    			<img src="pradip.jpg" align="right" style="margin-top:-;" class="img-thumbnail" width="100"></p>
     			<hr>
-    			<h1 >Name : Pradip Vaghasiya</h1>
-    			<h2 >Phone No : 9665298974</h2>
-    			<h3>Email : pradipvaghasiya09@gmail.com</h3>
+    			<h3 >Name : Pradip Vaghasiya</h3>
+    			<h4 >Phone No : 9665298974</h4>
+    			<h4>Email : pradipvaghasiya09@gmail.com</h4>
 			</div>
 			<div class="col-sm-4">
 				<ul class="list-group" style="margin-top:20px;">
