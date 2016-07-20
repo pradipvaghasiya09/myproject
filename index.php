@@ -325,7 +325,7 @@
 				<ul class="list-group" style="margin-top:80px;">
 					<li  class="list-group-item" >
 						<a href="#" style="color:white">
-							<button class="btn btn-info" style="width:300px; background-color:#3175af;" >
+							<button class="btn btn-default" style="width:200px; background-color:#3175af;" >
 								Facebook
 							</button>
 						</a>
