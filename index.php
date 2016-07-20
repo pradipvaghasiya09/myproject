@@ -314,9 +314,9 @@
 		<div class="row">
 			<div class="col-sm-8" style="text-align: center; border-radius: 10px;border: 2px solid black;color:#ffffff;background-color: #000000">
 			<h2> About</h2>
-    			<img src="pradip.jpg" align="right" style="margin-top:20px;" class="img-thumbnail" width="100"></p>
+    			<img src="pradip.jpg" align="right" style="margin-bottom:40px;" class="img-thumbnail" width="100"></p>
     			<hr>
-    			<h3></h3>Pradip Vaghasiya</h3>
+    			<h2>Pradip Vaghasiya</h2>
     			<h4 >Mo-No : 9665298974</h4>
     			<h4>Email : pradipvaghasiya09@gmail.com</h4>
 			</div>
