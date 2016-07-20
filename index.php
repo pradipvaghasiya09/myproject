@@ -325,21 +325,21 @@
 				<ul class="list-group" style="margin-top:80px;">
 					<li  class="list-group-item" >
 						<a href="#" style="color:white">
-							<button style="width:300px; background-color:#3175af;" >
+							<button class="btn btn-info" style="width:300px; background-color:#3175af;" >
 								Facebook
 							</button>
 						</a>
 					</li>
 					<li class="list-group-item">
 						<a href="#" style="color:white">
-							<button style="width:300px; background-color:#00aced;" >
+							<button class="btn btn-info"  style="width:300px; background-color:#00aced;" >
 								Twitter
 							</button>
 						</a>
 					</li>
 					<li class="list-group-item">
 						<a href="#" style="color:white">
-							<button style="width:300px; background-color:#cc4539;" >
+							<button class="btn btn-info"  style="width:300px; background-color:#cc4539;" >
 								Google-Plus
 							</button>
 						</a>
