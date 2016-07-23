@@ -42,7 +42,7 @@
 						<li><a href="#">Mukesh</a></li>
 						<li><a href="#">Ronak</a></li>
 						<li><a href="#">Sukhi</a></li>
-						<li><a href="#">booo</a></li>
+						<li><a href="#">khushbu</a></li>
 					</ul>
 				
 				</li>
