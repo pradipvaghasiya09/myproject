@@ -232,7 +232,7 @@
 								Pune district of Maharashtra State.<p>Water from the dam is used for 
 								irrigation as well as for producing electricity at the Bhira hydroelectric 
 								power plant, operated by Tata Power.</p>
-							</p>	
+								
 						</div>
 						<div class="panel-footer" style="background-color:#ecd0d0">
 						<p align="right"><a href="#" >See More..</a></p>
