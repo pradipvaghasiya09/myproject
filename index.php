@@ -230,8 +230,7 @@
 								Mulshi is the name of a major dam on the Mula river in India.
 								It is located in the Mulshi taluka administrative division of the
 								Pune district of Maharashtra State.<p>Water from the dam is used for 
-								irrigation as well as for producing electricity at the Bhira hydroelectric 
-								power plant, operated by Tata Power.</p>
+								irrigation as well as for producing electricity at the Bhira </p>
 								
 						</div>
 						<div class="panel-footer" style="background-color:#ecd0d0">
