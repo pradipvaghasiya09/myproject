@@ -248,7 +248,7 @@
 						Khadakwasla Dam
 						</div>
 						<div class="panel-body bg-danger">
-						<img src="Khadakwasla_Dam.JPG"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="300">
+						<img src="Khadakwasla_Dam.JPG"  style="margin-right:10px;" class="img-responsive img-thumbnail" width="250">
 							<p style="padding:5px; text-align:justify;" ><br> 
 							&emsp;
 								<b>Khadakwasla Dam</b> is a dam on the Mutha River 20 km from 
